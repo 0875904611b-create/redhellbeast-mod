@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="redhellbeast"
+version="1.0.0"
+displayName="Red: The Hellbeast"
+description='''
+A boss mod inspired by the NES Godzilla creepypasta.
+Find the cursed Godzilla cartridge, put it in the Retro Computer, and get pulled into the game to fight Red.
+'''
+
+[[dependencies.redhellbeast]]
+modId="forge"
+mandatory=true
+versionRange="[47.3.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.redhellbeast]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

@@ -1,0 +1,6 @@
+{
+  "type": "redhellbeast:add_cartridge",
+  "conditions": [],
+  "chance": 0.35,
+  "item": "redhellbeast:godzilla_cartridge"
+}

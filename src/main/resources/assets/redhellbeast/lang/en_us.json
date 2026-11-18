@@ -1,0 +1,17 @@
+{
+  "itemGroup.redhellbeast": "Red: The Hellbeast",
+  "item.redhellbeast.godzilla_cartridge": "Godzilla: Monster of Monsters! Cartridge",
+  "item.redhellbeast.hellbeast_heart": "Heart of the Hellbeast",
+  "item.redhellbeast.red_spawn_egg": "Red Spawn Egg",
+  "block.redhellbeast.retro_computer": "Retro Computer",
+  "entity.redhellbeast.red": "Red",
+  "entity.redhellbeast.hell_skull": "Hellfire Skull",
+  "entity.redhellbeast.glitch_sprite": "Glitch Sprite",
+  "boss.redhellbeast.phase1": "RED - The Hellbeast",
+  "boss.redhellbeast.phase2": "R#D - Corrupted",
+  "boss.redhellbeast.phase3": "\u2588 G A M E   O V E R \u2588",
+  "tooltip.redhellbeast.cartridge.1": "\u00a78Something is wrong with this cartridge.",
+  "tooltip.redhellbeast.cartridge.2": "\u00a74Put it in a Retro Computer. Do not blow on it.",
+  "message.redhellbeast.computer_idle": "The screen is dark. It wants a cartridge.",
+  "message.redhellbeast.computer_busy": "The computer is already running something..."
+}

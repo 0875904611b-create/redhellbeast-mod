@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "redhellbeast:block/retro_computer_top",
+    "bottom": "redhellbeast:block/retro_computer_top",
+    "front": "redhellbeast:block/retro_computer_front",
+    "side": "redhellbeast:block/retro_computer_side",
+    "particle": "redhellbeast:block/retro_computer_side"
+  }
+}

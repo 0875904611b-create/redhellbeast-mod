@@ -1,0 +1,17 @@
+{
+  "itemGroup.redhellbeast": "Red: The Hellbeast",
+  "item.redhellbeast.godzilla_cartridge": "แผ่นเกม Godzilla: Monster of Monsters!",
+  "item.redhellbeast.hellbeast_heart": "หัวใจของ Hellbeast",
+  "item.redhellbeast.red_spawn_egg": "ไข่เสก Red",
+  "block.redhellbeast.retro_computer": "คอมพิวเตอร์เรโทร",
+  "entity.redhellbeast.red": "Red",
+  "entity.redhellbeast.hell_skull": "กะโหลกไฟนรก",
+  "entity.redhellbeast.glitch_sprite": "สไปรต์บัค",
+  "boss.redhellbeast.phase1": "RED - The Hellbeast",
+  "boss.redhellbeast.phase2": "R#D - ถูกบิดเบือน",
+  "boss.redhellbeast.phase3": "\u2588 G A M E   O V E R \u2588",
+  "tooltip.redhellbeast.cartridge.1": "\u00a78แผ่นเกมนี้มีอะไรบางอย่างผิดปกติ",
+  "tooltip.redhellbeast.cartridge.2": "\u00a74เอาไปใส่ในคอมพิวเตอร์เรโทร อย่าเป่าตลับ",
+  "message.redhellbeast.computer_idle": "หน้าจอมืดอยู่ ดูเหมือนมันอยากได้แผ่นเกม",
+  "message.redhellbeast.computer_busy": "คอมพิวเตอร์กำลังรันอะไรบางอย่างอยู่..."
+}
